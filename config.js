@@ -1,7 +1,7 @@
 /**
-   * Create By Arull.
-   * Contact Me on wa.me/6285822347348
-   * Follow https://github.com/Arullwara
+   * Create By 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐
+   * Contact Me on wa.me/436507000206999
+   * Follow 
 */
 
 const fs = require('fs')
@@ -18,10 +18,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285822347348','6285822347348','6285822347348']
-global.premium = ['6285822347348']
-global.packname = 'Arull'
-global.author = 'ArullBotz'
+global.owner = ['6285817421330','6285817421330','6285817421330']
+global.premium = ['6285817421330']
+global.packname = 'Bot cwann'
+global.author = 'Bot cwann'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
